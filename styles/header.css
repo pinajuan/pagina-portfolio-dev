@@ -6,6 +6,7 @@ header {
   padding: 20px;
   width: 100%;
   min-height: 800px;
+  margin-bottom: 72px;
 }
 
 .container {
@@ -72,10 +73,6 @@ nav {
     height: 32px;
   }
 
-}
-
-span {
-  color: var(--red)
 }
 
 h3 {

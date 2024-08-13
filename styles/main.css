@@ -1,0 +1,9 @@
+main {
+  text-align: center;
+}
+
+h2 {
+  margin-block: 8px 56px;
+  font: var(--title-md);
+  color: var(--gray-600);
+}

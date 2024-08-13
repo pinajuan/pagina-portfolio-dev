@@ -36,3 +36,8 @@
 body {
   background-color: var(--gray-200);
 }
+
+span {
+  color: var(--red);
+  font: var(--subtitle);;
+}
