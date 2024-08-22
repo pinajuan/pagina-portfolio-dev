@@ -1,6 +1,6 @@
 # Portfólio Developer
 
-![Portfólio](pagina-portfolio-dev/assets/print-initial.png)
+<img src="pagina-portfolio-dev/assets/print-initial.png" alt="Portfólio">
 
 Bem-vindo ao **portfólio online** de Juan Pina, um desenvolvedor Fullstack apaixonado por criar soluções tecnológicas inovadoras.
 
@@ -18,4 +18,4 @@ Este portfólio apresenta:
 - **HTML**: Estrutura básica do site.
 - **CSS**: Estilização e layout responsivo.
 - **Google Fonts**: Tipografia personalizada.
-- **Figma**: Design do portfólio. [Visualize o design no Figma](https://www.figma.com/design/McfJu9wXEEWSAdAttbRhAL/Portfolio-Dev-(Community)?node-id=3-376&t=FM0pCSvvkQivQPpU-0){:target="_blank"}
+- **Figma**: Design do portfólio. <a href="https://www.figma.com/design/McfJu9wXEEWSAdAttbRhAL/Portfolio-Dev-(Community)?node-id=3-376&t=FM0pCSvvkQivQPpU-0" target="_blank">Visualize o design no Figma</a>
